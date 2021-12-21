@@ -16,7 +16,7 @@
             <!-- header -->
             <mj-section>
                 <mj-column>
-                    <mj-image src="img/header.gif" alt="Ledger Biiiiiites Newsletter logo" width="210px"/>
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/header.gif" alt="Ledger Biiiiiites Newsletter logo" width="210px"/>
                     <mj-text align="center" padding="0">
                         17/12/2021
                     </mj-text>
@@ -46,16 +46,16 @@
             <!-- important numbers -->
             <mj-section>
                 <mj-column>
-                    <mj-image src="img/important-numbers.png" alt="Important Numbers" width="280px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/important-numbers.png" alt="Important Numbers" width="280px" />
                 </mj-column>
             </mj-section>
 
             <mj-section padding="0">
                 <mj-column>
-                    <mj-image src="img/350mil.png" alt="Stats on money raised by Anchorage." />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/350mil.png" alt="Stats on money raised by Anchorage." />
                 </mj-column>
                 <mj-column>
-                    <mj-image src="img/81percent.png" alt="Growth rate of crypto scam revenues." />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/81percent.png" alt="Growth rate of crypto scam revenues." />
                 </mj-column>
             </mj-section>
             <mj-section>
@@ -73,7 +73,7 @@
             <!-- in the know -->
             <mj-section background-color="#f3f3f3">
                 <mj-column>
-                    <mj-image src="img/in-the-know.png" alt="In the know" width="164px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/in-the-know.png" alt="In the know" width="164px" />
                 </mj-column>
             </mj-section>
             <!-- news links -->
@@ -158,7 +158,7 @@
             <!-- insight of the week -->
             <mj-section background-color="#f3f3f3">
                 <mj-column>
-                    <mj-image src="img/insight.png" alt="Insight of the week" width="252px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/insight.png" alt="Insight of the week" width="252px" />
                 </mj-column>
             </mj-section>
             <!-- insight of the week -->
@@ -170,7 +170,7 @@
                 <mj-text padding-top="40px" font-size="17px" color="#555" font-weight="600" align="center">
                         Web3: A Digital Revolution, yet Unsafe
                     </mj-text>
-                    <mj-image padding="0" src="img/bitcoin.jpg" alt="Ledger open illustration" width="336px" />
+                    <mj-image padding="0" src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/bitcoin.jpg" alt="Ledger open illustration" width="336px" />
                     <mj-text>
                         An economy founded on tokens and digital ownership is emerging, backed by a wave of tokenization. But tokenization of what, exactly? Well, pretty much everything. From money, art, shares, to identity and personal data, everything valuable could ultimately be converted into tokens and logged into blockchains.
                         <br/><br/>
@@ -209,7 +209,7 @@
             <!-- I wanna know more -->
             <mj-section background-color="#f3f3f3">
                 <mj-column>
-                    <mj-image src="img/wanna-know.png" alt="I wanna know" width="244px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/wanna-know.png" alt="I wanna know" width="244px" />
                 </mj-column>
             </mj-section>
             <!-- I wanna know more -->
@@ -238,7 +238,7 @@
             <!-- inside ledger -->
             <mj-section background-color="#f3f3f3">
                 <mj-column>
-                    <mj-image src="img/inside-ledger.png" alt="I wanna know" width="196px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/inside-ledger.png" alt="I wanna know" width="196px" />
                 </mj-column>
             </mj-section>
             <!-- inside ledger -->
@@ -269,7 +269,7 @@
             <!-- images of the week -->
             <mj-section background-color="#f3f3f3">
                 <mj-column>
-                    <mj-image src="img/images-of-the-week.png" alt="I wanna know" width="252px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/images-of-the-week.png" alt="I wanna know" width="252px" />
                 </mj-column>
             </mj-section>
             <!-- images of the week -->
@@ -280,7 +280,7 @@
                     <mj-text padding-top="0" align="center">
                         More and more might say yes.
                     </mj-text>
-                    <mj-image src="img/meme.png" alt="NFT Meme" width="336px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/meme.png" alt="NFT Meme" width="336px" />
                     <mj-text align="center" font-size="12px">
                         Credits: <a style="color:#41ccb4"href="https://tinyurl.com/58nknx95">@stevekrouse</a>
                     </mj-text>
@@ -341,17 +341,17 @@
                 <table class="footer" style="width:100%;max-width:600px;margin:10px auto;border-collapse:collapse;">
                     <tr>
                         <td style="width:auto;padding:22px 0">
-                            <img style="padding-left:35px" src="img/footer-logo.png" alt="ledger logo" width="50px">
+                            <img style="padding-left:35px" src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/footer-logo.png" alt="ledger logo" width="50px">
                         </td>
                         <td style="width:50%;text-align:right;color:#555;font-size:11px;font-family:Open Sans, Sans Serif;padding-right:26px" class="social-block">
                             <p style="padding:0px 9px 2px 0;margin:6px 0;font-size:11px;color:#555;">
                             follow us on:
                             </p>
-                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0B8vzEYtOY7Srk_et8Er5vSZkvhTbrcJ1QeOPbrZ3GFSW-qn4Epb5KB_hpamrYMNk7q1CppqA6h6UuI37dDvZvckSkXATG9BFD4zZY0o0KjaEejzcp-jXLVvzrm84teHSNVBD-glhXw8xLR6mxphFFwDNxdhR-NIlTP_OJtmViVYvllU9ia1OHpEWiN1EL_cnFuw9Iq6ElV0gituh1ZuSj1FzNOJQdD2YQiVajsKis_PNgWI8d-PgamN5GMgPCsAW6c0Nc3D5xg1p1-LllfkUMHlzPTImFixVz3-TSvt9-DEaF1vzfzvSKFHUXV5kRok5p0jhCaoRfmXObeM-OGxPG6lDZ3czRXbM37B7edcC5n8pDw34QgyS-GJHyI6lSaPaA%3D%3D"><img style="margin-right:10px;width:16px;height:16px" src="img/youtube.png" alt="Ledger Youtube Channel"></a>
-                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0IIIBdUhr4PbETpSjZQgRo3c4qXd1XGoyEpsYaJ76sw2voCARS8hlqk4fvGq-IvoPTnCl-T65XG5kQJ420LVND20SLm3QCEcHh5uAKOEfBeFaY4GGWJYmGnFZyZlN8ZamU59Z16NroVwvLZo5HGohXbOHO4pcsmzpZgA_Cl5UGezaYCQVSf6rig38B9ZX-RNQQeklehgzzAG79nhACBrPcRviiFtdkQXM7WjG-Sv8mtxbtR9iQ2FNIe8VjmWFZ2Cqkj-BCZRWid1CIQoJ3TsC5SppRkyFj9OZGArdealYRvnqz40yx13umQ9HDATvROxF93qLFy1qidj2uunKzOAiWg%3D"><img style="margin-right:10px;width:16px;height:16px" src="img/twitter.png" alt="Ledger Twitter Channel"></a>
-                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0AAi2Fa_v-vtTndZsp2mWmKWatWcF3ryCYWB7T9-Nbt55HQtVUa0V3r14OPkrkTRye6auy_U-Mfuvlq3DwXY0rUIRZy26KZQD3Kv1DsvHwa_JxGLSoTT9xHaqJXjXDVRwp1RRvRtgPUrHP4GsMkSNvIn5-7M9FsZvKTxliQ4vbKIMzPREgvNidapmKt6CuUuCTputkdAsWyxe8mszizdjpfj9Pv8irG2RywlsTAXBHga9hrSUoU_E2tqJAOVcwFSeNnBm73V9Muy4yy4mgYocSSxLR7Z_i--BiMR-P9md01PiHvTC9916rKeecajLJLlk-57CfRAT5kZRSWa4P4MFtKLlQEICXIr_DiUn-aBnP60"><img style="margin-right:10px;width:16px;height:16px" src="img/instagram.png" alt="Ledger Instagram Channel"></a>
-                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0GTZIUC42MG3xkhiK9zshuRrwaQqffI9HqVwhutkqv8OP81xv2oEk-onZXj2ZZpGryeaO1OqiiyQGTgsTd11MxjWmaKTq1klE6vYFTTlu68Y-8vm1P8swnlGB4Z9A_lLQhTgCpLDY2gK_WeJ74SI__fmQSFiBlTsYLus4KmTYZrWmQBME29kl_guUdnIhCnjhC9WmrCf2K3q95-PVVuVpobRs37aN9eMAIOXnHPlvhCkLFJ9AcEuCxHuAFDJHuZaWx0iIE-V-j8isqy3FlYgZgo8_TkugQv29ri5wsPJri3SnY9Mwj2AwZ3V5taq9slNj7TP_Tet-lgkm30Avgww6m0%3D"><img style="margin-right:10px;width:16px;height:16px" src="img/facebook.png" alt="Ledger Facebook Channel"></a>
-                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0HpXM1TiMuewJe866-2abU5eM0KLcUQOsl-Bd0dgLClCyL5x2QD9NMGYXwN6kLfRU4ZDo4VD4hrDc3wX-ndDgjMOWw73AHS8eTOu6JwrPvLxHmxH_97jSHOzGz85rHYcYwjstkwSAm9vJFyzmF5rVhrjA_GGMZFdItnjs-ZnViju_DJ0yeyDDN_4VIwxycbEeWY77VcwqC9HJdPe92ZDmghMp7s5aDXWtTnZuQlAwj4TE9Ah9DEUt_dQpNiJ8VAFBiL2-3LttgAO5knGth3SItmtDzH-GDinWce4O2O2n77ZW7NhJaaDTz0SmNvpgakSlDCGq9ZkRJDwKj68ieJP-_M%3D"><img style="margin-right:10px;width:16px;height:16px" src="img/tiktok.png" alt="Ledger Tik-Tok Channel"></a>
+                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0B8vzEYtOY7Srk_et8Er5vSZkvhTbrcJ1QeOPbrZ3GFSW-qn4Epb5KB_hpamrYMNk7q1CppqA6h6UuI37dDvZvckSkXATG9BFD4zZY0o0KjaEejzcp-jXLVvzrm84teHSNVBD-glhXw8xLR6mxphFFwDNxdhR-NIlTP_OJtmViVYvllU9ia1OHpEWiN1EL_cnFuw9Iq6ElV0gituh1ZuSj1FzNOJQdD2YQiVajsKis_PNgWI8d-PgamN5GMgPCsAW6c0Nc3D5xg1p1-LllfkUMHlzPTImFixVz3-TSvt9-DEaF1vzfzvSKFHUXV5kRok5p0jhCaoRfmXObeM-OGxPG6lDZ3czRXbM37B7edcC5n8pDw34QgyS-GJHyI6lSaPaA%3D%3D"><img style="margin-right:10px;width:16px;height:16px" src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/youtube.png" alt="Ledger Youtube Channel"></a>
+                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0IIIBdUhr4PbETpSjZQgRo3c4qXd1XGoyEpsYaJ76sw2voCARS8hlqk4fvGq-IvoPTnCl-T65XG5kQJ420LVND20SLm3QCEcHh5uAKOEfBeFaY4GGWJYmGnFZyZlN8ZamU59Z16NroVwvLZo5HGohXbOHO4pcsmzpZgA_Cl5UGezaYCQVSf6rig38B9ZX-RNQQeklehgzzAG79nhACBrPcRviiFtdkQXM7WjG-Sv8mtxbtR9iQ2FNIe8VjmWFZ2Cqkj-BCZRWid1CIQoJ3TsC5SppRkyFj9OZGArdealYRvnqz40yx13umQ9HDATvROxF93qLFy1qidj2uunKzOAiWg%3D"><img style="margin-right:10px;width:16px;height:16px" src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/twitter.png" alt="Ledger Twitter Channel"></a>
+                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0AAi2Fa_v-vtTndZsp2mWmKWatWcF3ryCYWB7T9-Nbt55HQtVUa0V3r14OPkrkTRye6auy_U-Mfuvlq3DwXY0rUIRZy26KZQD3Kv1DsvHwa_JxGLSoTT9xHaqJXjXDVRwp1RRvRtgPUrHP4GsMkSNvIn5-7M9FsZvKTxliQ4vbKIMzPREgvNidapmKt6CuUuCTputkdAsWyxe8mszizdjpfj9Pv8irG2RywlsTAXBHga9hrSUoU_E2tqJAOVcwFSeNnBm73V9Muy4yy4mgYocSSxLR7Z_i--BiMR-P9md01PiHvTC9916rKeecajLJLlk-57CfRAT5kZRSWa4P4MFtKLlQEICXIr_DiUn-aBnP60"><img style="margin-right:10px;width:16px;height:16px" src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/instagram.png" alt="Ledger Instagram Channel"></a>
+                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0GTZIUC42MG3xkhiK9zshuRrwaQqffI9HqVwhutkqv8OP81xv2oEk-onZXj2ZZpGryeaO1OqiiyQGTgsTd11MxjWmaKTq1klE6vYFTTlu68Y-8vm1P8swnlGB4Z9A_lLQhTgCpLDY2gK_WeJ74SI__fmQSFiBlTsYLus4KmTYZrWmQBME29kl_guUdnIhCnjhC9WmrCf2K3q95-PVVuVpobRs37aN9eMAIOXnHPlvhCkLFJ9AcEuCxHuAFDJHuZaWx0iIE-V-j8isqy3FlYgZgo8_TkugQv29ri5wsPJri3SnY9Mwj2AwZ3V5taq9slNj7TP_Tet-lgkm30Avgww6m0%3D"><img style="margin-right:10px;width:16px;height:16px" src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/facebook.png" alt="Ledger Facebook Channel"></a>
+                            <a href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0HpXM1TiMuewJe866-2abU5eM0KLcUQOsl-Bd0dgLClCyL5x2QD9NMGYXwN6kLfRU4ZDo4VD4hrDc3wX-ndDgjMOWw73AHS8eTOu6JwrPvLxHmxH_97jSHOzGz85rHYcYwjstkwSAm9vJFyzmF5rVhrjA_GGMZFdItnjs-ZnViju_DJ0yeyDDN_4VIwxycbEeWY77VcwqC9HJdPe92ZDmghMp7s5aDXWtTnZuQlAwj4TE9Ah9DEUt_dQpNiJ8VAFBiL2-3LttgAO5knGth3SItmtDzH-GDinWce4O2O2n77ZW7NhJaaDTz0SmNvpgakSlDCGq9ZkRJDwKj68ieJP-_M%3D"><img style="margin-right:10px;width:16px;height:16px" src="https://raw.githubusercontent.com/lee-android/ledger-newsletter/master/img/tiktok.png" alt="Ledger Tik-Tok Channel"></a>
                             <p style="padding:2px 10px 10px 0;margin:auto;">
                             & listen to our podcast <a style="color:#999;" href="https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=463a931d76574883ab8c607dda7903c7&_e=b2ldrxdp6pOYZZ5BH0Ni0MdC55avChgHDd3I9dmFuIodhVtFvEL0pPu1NBbd4k2DQ-oRin0h386KZExaj7HHqbfkhmxfQmTJlKXo3EUa-gSJ5UAAktIDL0liiMcj1I1XnK_wtPrgBVdafsMcDvHHadihL7QbijudLu3r3HqlUqp8AMyeprtTFICdJH4cl4GXlf0RQ-dz9jcPyISOL8_x_xycTdv8PFD8P_Oh-lPRr7VG8m39rzHAw4CsHzIQchlr34mZJyAkjXhTmqhdO9MbNGA9GCL4fJfsIPJOYQzsPDxqGBzBcFL31sEbxIS2YrnypT8IMdLOm7xV24R3tbBIIh0MF0a4B2JxHDb6_Md5pBcmoyXkq7n21HITjIZl9VwV2AbmPofinMcpvtAQb0nSFw%3D%3D">here</a>.
                             </p>
