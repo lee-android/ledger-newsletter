@@ -308,12 +308,12 @@
                 </mj-column>
                 <mj-column>
                     <mj-button background-color="#f3f3f3" color="#555" inner-padding="20px" border-radius="4px" font-size="16px">
-                        😍I buy!
+                        😐I hodl!
                     </mj-button>
                 </mj-column>
                 <mj-column>
                     <mj-button background-color="#f3f3f3" color="#555" inner-padding="20px" border-radius="4px" font-size="16px">
-                        😍I buy!
+                        😭I sell!
                     </mj-button>
                 </mj-column>
             </mj-section>
